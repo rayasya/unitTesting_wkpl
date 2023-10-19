@@ -7,7 +7,7 @@
 <body>
     <h1>Unit Testing WKPL Acara 16</h1>
     <p>Tugas WKPL Acara 16 tentang Unit Testing menggunakan PHPunit</p>
-    <p style="text-align:center;">Unit testing adalah suatu pekerjaan yang harus dilakukan ketika mengembangkan 
+    <p style="text-align:justify;">Unit testing adalah suatu pekerjaan yang harus dilakukan ketika mengembangkan 
 suatu produk, terutama produk software. Karena pekerjaan ini sangat penting untuk 
 memastikan kualitas setiap komponen yang ada di dalamnya. Umumnya, unit testing 
 dikerjakan oleh seorang software tester atau software developer. Nah, pada kesempatan 
